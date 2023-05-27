@@ -335,7 +335,7 @@ export default function Home() {
       {/* Bottom footer */}
       <footer className={styles.footer}>
         <p>
-          &copy; 2022 <strong>ETH Lottery</strong> a project by Daneshwari
+          &copy; 2023 <strong> Decentralized Lottery</strong> a project by Daneshwari
         </p>
       </footer>
     </div>
