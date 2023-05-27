@@ -1393,6 +1393,11 @@ bufio@^1.0.7:
   resolved "https://registry.npmjs.org/bufio/-/bufio-1.2.0.tgz"
   integrity sha512-UlFk8z/PwdhYQTXSQQagwGAdtRI83gib2n4uy4rQnenxUM2yQi8lBDzF230BNk+3wAoZDxYRoBwVVUPgHa9MCA==
 
+bulma@^0.9.4:
+  version "0.9.4"
+  resolved "https://registry.npmjs.org/bulma/-/bulma-0.9.4.tgz"
+  integrity sha512-86FlT5+1GrsgKbPLRRY7cGDg8fsJiP/jzTqXXVqiUZZ2aZT8uemEOHlU1CDU+TxklPEZ11HZNNWclRBBecP4CQ==
+
 busboy@^1.6.0:
   version "1.6.0"
   resolved "https://registry.npmjs.org/busboy/-/busboy-1.6.0.tgz"
