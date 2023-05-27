@@ -175,7 +175,7 @@ export default function Home() {
 
       <main className={styles.main}>
         {/* Top nav */}
-        <nav className="navbar mt-4 mb-4 relative">
+        <nav className="navbar mt-4 mb-4 relative py-2">
           <div className="container py-4 ">
             <div className="navbar-brand absolute top-1 px-4">
               <h1>Decentralized Lottery!!</h1>
